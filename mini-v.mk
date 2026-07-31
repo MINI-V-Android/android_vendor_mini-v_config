@@ -1,4 +1,6 @@
 # MINI-V Common Packages
 PRODUCT_PACKAGES += \
 	MiniVChat \
-	MiniVChatPermissions
+	MiniVChatPermissions \
+	ai_daemon \
+	ai_daemon_cli
