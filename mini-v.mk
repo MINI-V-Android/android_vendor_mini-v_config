@@ -3,4 +3,5 @@ PRODUCT_PACKAGES += \
 	MiniVChat \
 	MiniVChatPermissions \
 	ai_daemon \
-	ai_daemon_cli
+	ai_daemon_cli \
+	htp_session_test
