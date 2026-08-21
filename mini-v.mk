@@ -3,4 +3,5 @@ PRODUCT_PACKAGES += \
 	MiniVChat \
 	MiniVChatPermissions \
 	ai_daemon \
-	ai_daemon_cli
+	ai_daemon_cli \
+	hal_test_cli
