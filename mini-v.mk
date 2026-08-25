@@ -1,3 +1,6 @@
+PRODUCT_PUBLIC_SEPOLICY_DIRS += frameworks/mini-v/sepolicy/public
+PRODUCT_PRIVATE_SEPOLICY_DIRS += frameworks/mini-v/sepolicy/private
+
 # MINI-V Common Packages
 PRODUCT_PACKAGES += \
 	MiniVChat \
